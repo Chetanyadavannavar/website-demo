@@ -1,0 +1,241 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    /* background-image: url(bg.png); */
+    padding: 20px;
+    margin: 10px;
+    /* background-color: aqua; */
+    /* text-decoration: none; */
+    /* background-repeat: no-repeat; */
+    /* background-size: cover */
+    background-color: black;
+    
+    
+}
+.box1{
+    background-image: url(bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 180vh;
+    height: 90vh;
+    margin-left: 40px;
+    color: black;
+}
+    h2{
+        /* display: inline-block; */
+        color: red;
+    margin-left: 30px;
+
+    }
+    li{
+        display: inline-block;
+        text-decoration: none;
+        width: 130px;
+        
+   
+        
+    }
+    ul{
+        text-align: center;
+        text-decoration: none;
+      width: 1700px;
+      
+        
+    }
+    li a{
+        color: black;
+        text-decoration: none;
+        font-size: larger;
+        font-weight: 700;
+        
+    }
+     input{
+        /* background-color:yellow;  */
+        font-size: 16px;
+        border:solid rgb(216, 102, 102);
+        width:200px;
+        text-align: center;
+        font-weight: 700;
+        
+        
+    }
+    button{
+        font-size: 16px;
+        /* border: solid red ; */
+        background-color: rgb(204, 244, 62);
+       font-weight: 700;
+       width: 100px;
+       height: 24px;
+
+    }
+    button:hover{
+        background:transparent;
+        color:red;
+    }
+    .box1 a:hover{
+        color: red;
+
+    }
+    
+    input:hover{
+        background: transparent;
+       
+    }
+    .containers{
+        /* display: inline-block; */
+        width: 1000px;
+        line-height: 1.5;
+         margin-left:500px;
+        margin-top: 100px;
+        
+        
+
+
+    }
+    h1{
+        line-height: 1;
+        font-size: 3em;
+        color: antiquewhite;
+        text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+        margin-left: 50px;
+        
+       
+    }
+    h3{
+        font-size: 4em;
+        color: orange;
+        text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+        
+        
+    }
+    h4{
+        font-size: 5em;
+        color:yellow;
+        text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+        margin-left: 130px;
+        margin-top: 30px;
+        
+    }
+    .container{
+        display: inline-block;
+        margin-bottom: 1000px;
+        /* margin-top: 100px; */
+        margin-left: 800px;
+       text-align: center;
+        /* box-sizing: border-box; */
+        width: 300px;
+        height: 300px;
+        border: solid  10px;
+        padding: 5px;  
+    }
+    .form{
+        width: 250px;
+        height: 450px;
+        position: absolute;
+        top: 170px;
+        left: 1100px;
+        box-sizing: border-box;
+        width: 300px;
+        border: solid orange 1px;
+        padding: 5px;
+        background-color: black;
+        letter-spacing: 1px;
+        border-radius: 20px;
+        box-shadow: 10px 5px 5px rgb(49, 49, 79);
+
+    }
+    h5{
+        margin-top: 10px;
+        color: rgb(200, 118, 118);
+        font-size: 1.5em;
+        text-align: center;
+        border-radius: 100px;
+        background-color:aqua;
+    }
+    .form input{
+        width: 250px;
+        height: 25px;
+        margin-top: 40px;
+        padding-left: 10px;
+        border: none;
+        margin-left: 14px;
+        border-radius: 8px;
+
+
+    }
+    .form button{
+        margin: 40px;
+        margin-left: 60px;
+        width: 160px;
+        text-align: center;
+        font-size: larger;
+        letter-spacing: 1px;
+        border-radius: 10px;
+        font-weight: 700;
+    }
+    button a{
+        text-decoration: none;
+        color:red;
+    }
+    .form:hover{
+        background: transparent;
+    }
+    .link{
+        color: brown;
+        
+    }
+    .link {
+        text-align: center;
+        display: inline-block;
+        margin-left: 50px;
+        text-decoration: none;        
+
+    
+    }
+    p{
+        text-align: center;
+        color: brown;
+        font-weight: 800;
+    }
+    .icon{
+        color: red;
+        font-size: x-large;
+        line-height: 4;
+        margin-left: 15px;
+        width: 130px;
+    }
+    ion-icon{
+        color: red;
+        font-size: x-large;
+        margin-left: 30px;
+    }
+    h2 span ion-icon{
+        color:blue;
+        margin: 0;
+
+    }
+    ion-icon:hover{
+        color: blue;
+    }
+    h5:hover{
+        background: transparent;
+        color:blueviolet;
+    }
+    .button ion-icon{
+    margin: 0;
+        
+        font-size: larger;
+        text-align: justify;
+    }
+  
+       
+    
+    
+        
+        
+    
+   
+    
